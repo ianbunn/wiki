@@ -1,5 +1,7 @@
 # Planning Deconstructed
 
+[document](assets/Planning-deconstructed.pdf) by Planview
+
 ## Integrated and Continuous Planning
 
 What is our organization’s maturity level?
