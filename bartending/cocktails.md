@@ -2,6 +2,41 @@
 
 ## Jägermeister
 
+### Jägerita
+
+Ingredients:
+
+* ½ part Jägermeister
+* 1 part Tequila
+* ½ part Cointreau
+* 1 part Lime Juice
+* Serve in cold coupe glass
+
+Instructions:
+
+1. Shake all ingredients on ice
+2. Strain into a cold coupe glass
+
+### Jägermeister Paloma
+
+Ingredients:
+
+* 1 ½ oz Jägermeister
+* 1 oz fresh pink grapefruit juice
+* ½ oz fresh lime juice
+* ½ oz agave nectar
+* Fill with Izze grapefruit soda
+* 1 grapefruit peel garnish
+* Serve in highball glass
+
+Instructions:
+
+1. Combine all ingredients except the grapefruit soda in shaker
+2. Add ice and shake
+3. Strain over fresh ice
+4. Fill with grapefruit soda, and stir lightly
+5. Garnish with grapefruit peel
+
 ### Jägermeister Old Fashioned
 
 Ingredients:
@@ -12,6 +47,10 @@ Ingredients:
 * Serve in rocks glass
 
 Instructions
+
+1. Stir ingredients in a shaker
+2. Shake gently
+3. Strain into a rocks glass filled with ice
 
 ## Rum
 
