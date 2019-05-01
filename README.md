@@ -14,4 +14,4 @@ Personal wiki to keep track of schtuff.
 
 ### Planning
 
-[Planning Deconstructed (incomplete)](planning/planning-deconstructed.md)
+[Planning Deconstructed](planning/planning-deconstructed.md) (Summary of [document](planning/assets/Planning-deconstructed.pdf) by Planview) (Incomplete)
