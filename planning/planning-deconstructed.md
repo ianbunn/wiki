@@ -1,6 +1,6 @@
 # Planning Deconstructed
 
-*Integrated and Continuous Planning*
+## Integrated and Continuous Planning
 
 What is our organization’s maturity level?
 
