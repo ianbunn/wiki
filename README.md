@@ -4,6 +4,12 @@ Personal wiki to keep track of schtuff.
 
 ## Table of Contents
 
+### Bartending
+
+[Cocktails](bartending/cocktails.md)
+
+[Shots](bartending/shots.md)
+
 ### History
 
 #### Ancient Mesoamerica
