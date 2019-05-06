@@ -18,6 +18,10 @@ Personal wiki to keep track of schtuff.
 
 [Mesoamerica](ancientMesoamerica/mesoamerica.md)
 
+### Literature
+
+[Literature Dictionary](literature/litdictionary.md)
+
 ### Planning
 
 [Planning Deconstructed](planning/planning-deconstructed.md) (Summary of [document](planning/assets/Planning-deconstructed.pdf) by Planview) (Incomplete)
