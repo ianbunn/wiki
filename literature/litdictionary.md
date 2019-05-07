@@ -12,3 +12,5 @@
 * **Prolepsis**: when a future state is spoken of in the present tense.
 * **Signature**: the name for each group of glued pages in a book.
 * **Threnody**: a sad song or poem about a dead person, i.e. Bob Dylan's song "George Jackson".
+
+[Back home](../README.md)

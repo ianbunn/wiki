@@ -101,6 +101,28 @@ Ingredients:
 * ½ cup ginger beer
 * 1 lime wedge (garnish)
 
+### Moscow Mule (strawberry mint)
+
+Ingredients:
+
+* 1½ oz vodka
+* 3 mint leaves
+* ½ oz strawberry shrub syrup
+* ½ oz lime juice (~half a lime)
+* ice cubes
+* ½ cup ginger beer
+* 1 mint sprig (garnish)
+* 1 lime wedge (garnish)
+
+Instructions:
+
+1. Use a moscow mule cup and muddle the 3 mint leaves in it
+2. Fill cup with ice
+3. Pour vodka, strawberry shrub syrup, lime juice to cup
+4. Add the ginger beer and stir mildly
+5. Garnish with mint sprig and lime wedge
+6. Enjoy!
+
 ### Screwdriver
 
 Ingredients:

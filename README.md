@@ -10,13 +10,21 @@ Personal wiki to keep track of schtuff.
 
 [Shots](bartending/shots.md)
 
+### Coffee
+
+[Aeropress](coffee/aeropress.md)
+
+### Food
+
+[My Pantry](food/mypantry.md)
+
 ### History
 
 #### Ancient Mesoamerica
 
-[Aztecs](ancientMesoamerica/aztecs.md)
+[Aztecs](history/ancientMesoamerica/aztecs.md)
 
-[Mesoamerica](ancientMesoamerica/mesoamerica.md)
+[Mesoamerica](history/ancientMesoamerica/mesoamerica.md)
 
 ### Literature
 
@@ -24,4 +32,4 @@ Personal wiki to keep track of schtuff.
 
 ### Planning
 
-[Planning Deconstructed](planning/planning-deconstructed.md) (Summary of [document](planning/assets/Planning-deconstructed.pdf) by Planview) (Incomplete)
+(Incomplete) [Planning Deconstructed](planning/planning-deconstructed.md) (Summary of [document](planning/assets/Planning-deconstructed.pdf) by Planview)
