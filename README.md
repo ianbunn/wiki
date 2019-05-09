@@ -10,6 +10,10 @@ Personal wiki to keep track of schtuff.
 
 [Shots](bartending/shots.md)
 
+### Business
+
+[Customer Lifecycle - Pirate Metrics](business/customerlifecycle-piratemetrics.md)
+
 ### Coffee
 
 [Aeropress](coffee/aeropress.md)
