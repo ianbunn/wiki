@@ -14,6 +14,8 @@ Personal wiki to keep track of schtuff.
 
 [Customer Lifecycle - Pirate Metrics](business/customerlifecycle-piratemetrics.md)
 
+[Qualitative and Quantitative Analytics](business/qualitative-quantitative-analytics.md)
+
 ### Coffee
 
 [Aeropress](coffee/aeropress.md)
