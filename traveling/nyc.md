@@ -167,6 +167,9 @@
 * Attaboy [entertainment]
   * Innovative, creative cocktails & classic concoctions mixed up in an industrial-style space
 
+* Contra [food]
+  * New American fare offering dinner-only fixed-price menu
+
 #### Koreatown
 
 * Jazz Standard [entertainment]
