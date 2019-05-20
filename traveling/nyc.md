@@ -6,6 +6,10 @@
 
 #### South Williamsburg
 
+* Di Fara Pizza [food]
+  * Address: 103 N 3rd St, Brooklyn, NY 11249
+  * Thin-sliced pizza with small pepperonnis
+
 * Velvet Brooklyn [entertainment]
   * Watched GoT S6:E5
   * Absinthe drink, forgot the name, is amazing
@@ -146,8 +150,6 @@
 * [Smorgasburg](https://www.smorgasburg.com/) [shopping]
   * Saturday @ Williamsburg @ East River State Park from 11:00 - 18:00
   * Sunday @ Prospect Park @ Breeze Hill from 11:00 - 18:00
-
-* Di Fara Pizza [food]
 
 ### The Bronx
 
