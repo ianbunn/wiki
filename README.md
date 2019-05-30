@@ -10,6 +10,8 @@ Personal wiki to keep track of schtuff.
 
 [Shots](bartending/shots.md)
 
+[Wine](bartending/wine.md)
+
 ### Business
 
 [Customer Lifecycle - Pirate Metrics](business/customerlifecycle-piratemetrics.md)

@@ -42,6 +42,8 @@
   * Great fried rice
   * Beef ramen was outstanding
   * Noodles are to die for
+  * I found out that I'm not into sechuan beef
+    * I find the sauce a little too oily for my taste
 
 #### Greenwich Village
 
