@@ -41,8 +41,11 @@ Personal wiki to keep track of schtuff.
 ### Planning
 
 [Power Method - 10 steps to solve problems](planning/powermethod-10steps.md)
+
 (Incomplete) [Planning Deconstructed](planning/planning-deconstructed.md) (Summary of [document](planning/assets/Planning-deconstructed.pdf) by Planview)
 
 ### Traveling
 
-[New York City](traveling/nyc.md)
+[New York City, NY](traveling/nycny.md)
+
+[Marfa, TX](traveling/marfatx.md)
