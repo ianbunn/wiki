@@ -26,6 +26,10 @@ Personal wiki to keep track of schtuff.
 
 [My Pantry](food/mypantry.md)
 
+### Health
+
+[Fitness - abs](health/fitness-abs.md)
+
 ### History
 
 #### Ancient Mesoamerica
