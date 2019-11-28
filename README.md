@@ -30,6 +30,8 @@ Personal wiki to keep track of schtuff.
 
 [Fitness - abs](health/fitness-abs.md)
 
+[Nootropics](health/nootropics.md)
+
 ### History
 
 #### Ancient Mesoamerica
