@@ -1,6 +1,6 @@
 # Aeropress Guide
 
-How to make coffee using an Aeropress by Tommy:
+How to make coffee using an Aeropress:
 
 1. Boil water (only need about 2-3 cups)
 2. Put filter in bottom of press
@@ -12,5 +12,7 @@ How to make coffee using an Aeropress by Tommy:
 8. Let water and grounds sit for ~2 minutes
 9. Plunge coffee into cup (medium speed)
 10. Enjoy your cup o' joe!
+
+Source: Tman
 
 [Back home](../README.md)

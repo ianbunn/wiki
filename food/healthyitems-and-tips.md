@@ -1,4 +1,4 @@
-# My Pantry
+# Healthy Pantry Items
 
 ## Meats
 
@@ -40,7 +40,7 @@
 
 * Dark chocolate
 
-## General Diet Tips
+## General Food Diet Tips
 
 ### Protein
 
