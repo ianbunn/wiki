@@ -2,43 +2,78 @@
 
 ## Meats
 
-* Salmon
+* Beef
 * Chicken
+* Salmon
+* Shrimp
+* Tempeh*
+* Tofu*
+* Tuna
+
+`* Not meat`
 
 ## Dairy
 
 * Eggs
 * Cashew milk
+* Cheddar shredded cheese (mild)
+* Gouda sliced cheese
+* Mozzarella shredded cheese
 
 ## Vegetables
 
-* Spinach
+* Arugula
+* Asparagus
 * Broccoli
+* Brussel sprouts
+* Celery
 * Kale
+* Lettuce
+* Pickles (jar)
+* Red potatoes
+* Spinach
+* Sweet potatoes
 
 ## Fruits
 
+* Apples
+* Avocados
 * Blueberries
 * Peaches
 
 ## Beans & Legumes
 
+* Black beans
 * Chickpeas
-* Pinto beans
 * Lentils
+* Lima beans
+* Pinto beans
 
-## Nuts
+## Grains & Nuts
 
-* Walnuts
 * Cashews
+* Chia seeds
+* Ezekiel bread (found in frozen section)
+* Flaxseed seeds
+* Quinoa
+* Rice (brown or rice noodles)
+* Shirataki pasta (translucent, Japanese yam noodles)
+* Walnuts
 
 ## Oils
 
+* Coconut oil
 * Extra virgin olive oil
 
 ## Snacks
 
+* Almond butter
 * Dark chocolate
+* Greek yogurt
+* Hot sauce (Cholula)
+* Oats
+* Peanut butter
+* Protein powder
 
 ## General Food Diet Tips
 
