@@ -36,6 +36,10 @@ Personal wiki to keep track of schtuff.
 
 #### Recipes
 
+##### Desserts
+
+[Chocolate Covered Strawberries](food/recipes/desserts/chocolate-covered-strawberries.md)
+
 ##### Salmon
 
 [Honey Garlic Salmon](food/recipes/salmon/honey-garlic-salmon.md)
