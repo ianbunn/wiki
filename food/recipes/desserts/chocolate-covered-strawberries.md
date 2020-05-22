@@ -31,3 +31,7 @@
 7. Let the strawberries sit for about an hour at room temperature…ENJOY!
 
 **NOTE**: DO NOT REFRIGERATE! Or strawberries will get mealy and soggy.
+
+Source: [rasamalaysia.com](https://www.fifteenspatulas.com/chocolate-covered-strawberries/)
+
+[Back home](../../../README.md)
