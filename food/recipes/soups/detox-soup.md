@@ -1,5 +1,7 @@
 # Cleansing Detox Soup
 
+![Detox soup](./assets/detox-soup.png)
+
 This soup contains all the veggie vitamin power you need plus the anti-inflamatory properties of turmeric, the blood sugar balancing of cinnamon, immune-boosting ginger and lemon and cayenne to rev up the metabolism.
 
 ## Ingredients
