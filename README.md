@@ -46,6 +46,10 @@ Personal wiki to keep track of schtuff.
 
 [Honey Garlic Salmon](food/recipes/salmon/honey-garlic-salmon.md)
 
+### Soup Recipes
+
+[Cleansing Detox Soup](food/recipes/soups/detox-soup.md)
+
 ## Health
 
 [Fitness - Abs](health/fitness-abs.md)
