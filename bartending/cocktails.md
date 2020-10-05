@@ -72,6 +72,33 @@ Instructions:
 4. Shake well and pour (unstrained) into a highball glass
 5. Top with club soda and garnish with a mint sprig
 
+### Watermelon Coconut Limeade
+
+![Watermelon cocunut limeade](cocktails-assets/watermelon-coconut-limeade.jpg)
+
+Makes 2 servings
+
+Ingredients:
+
+1 small seedless watermelon
+2 medium limes
+2 shots white rum (Malibu)
+2 tbsp coconut sugar
+2 liter club soda
+
+Instructions:
+
+1. Slice 3/4 of a seedless watermelon into cubes, reserving one quarter for juice
+2. Place watermelon cubes in a bag and freeze for several hours or preferably overnight (enough watermelon cubes for at least 4 drinks)
+3. In a strainer over a bowl, press the remaining chunks of fresh watermelon with a muddler or flat surface until most of the juice is extracted
+4. Slice limes into quarters and squeeze the juice of one fruit into each serving glass, throwing the limes into the glass along with it (use half of a lime instead of 2 medium limes if you prefer a drink that's not as tart)
+5. Add 1 tbsp coconut sugar and one shot of white rum to each serving glass (omit the sugar if you prefer it tart)
+6. Muddle until well mixed
+7. Fill to the brim with watermelon ice cubes (if your watermelon isn't frozen, just add in a few actual ice cubes to chill the drink)
+8. Add a healthy splash of watermelon juice (about 1/4 cup)
+9. Top off with club soda
+10. Stir, garnish with lime wedge, and serve with a straw
+
 ## Vodka
 
 ### Cosmopolitan
