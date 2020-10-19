@@ -44,7 +44,7 @@ Personal wiki to keep track of schtuff.
 
 ### Salmon Recipes
 
-[Honey Garlic Salmon](food/recipes/salmon/honey-garlic-salmon.md)
+[Honey Garlic Salmon](food/recipes/seafood/salmon/honey-garlic-salmon.md)
 
 ### Soup Recipes
 

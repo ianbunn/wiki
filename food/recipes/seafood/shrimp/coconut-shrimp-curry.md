@@ -2,7 +2,7 @@
 
 Serves 2
 
-![Coconut shrimp curry bowl](assets/coconut-shrimp-curry.png)
+![Coconut shrimp curry bowl](../assets/coconut-shrimp-curry.png)
 
 ## Ingredients
 
