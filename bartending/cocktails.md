@@ -54,6 +54,26 @@ Instructions
 
 ## Rum
 
+### Acapulco cocktail
+
+![Acapulco cocktail](cocktails-assets/acapulco-cocktail.jpg)
+
+Ingredients:
+
+* 2 oz Rum, white
+* 1/2 oz Triple Sec or Cointreau
+* Juice from 1/2 lime
+* 1 tsp sugar
+* 1 egg white
+* Fresh mint and lime wedge for garnish
+
+Instructions:
+
+1. Add rum, triple sec, lime juice, sugar, egg white and ice to a cocktail shaker
+2. Shake vigorously
+3. Strain into a glass over crushed ice
+4. Garnish with mint and lime
+
 ### Mojito
 
 Ingredients:
@@ -117,6 +137,24 @@ Ingredients:
 * 1 oz Vodka
 * 2 oz Peach Schnapps
 * 3 oz orange juice
+
+### Indian Paintbrush
+
+Ingredients:
+
+* 1.5 oz Vodka
+* 1 oz ruby red grapefruit juice
+* 1/2 oz rosemary syrup
+* 1/2 oz fresh lime juice
+* 2 dashes of Peychaud's bitters
+* Rosemary sprigs (small) for garnish
+
+Instructions:
+
+1. Add vodka, juice, syrup, lime juice, bitters and ice to a cocktail shaker
+2. Shake vigorously
+3. Strain into a chiled coupe glass
+4. Garnish with a sprig of rosemary
 
 ### Moscow Mule
 
