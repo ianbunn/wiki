@@ -140,28 +140,6 @@
       * 1/2 cup chopped cruciferous vegetable
       * 1/4 cup brussel sprouts
 
-## Meats
-
-### Meat Types
-
-* Chicken
-* Salmon
-* Shrimp
-* Tuna
-* Beef
-
-### Meat Tips
-
-* Meat consumption is optional, and not recommended
-
-## Dairy
-
-* Eggs
-* Cashew milk
-* Cheddar shredded cheese (mild)
-* Gouda sliced cheese
-* Mozzarella shredded cheese
-
 ## Nuts and Seeds
 
 ### Nuts and Seeds Types
@@ -216,25 +194,30 @@
 * Coconut oil
 * Extra virgin olive oil
 
-## Snacks
-
-* Almond butter
-* Dark chocolate
-* Greek yogurt
-* Hot sauce (Cholula)
-* Oats
-* Peanut butter
-* Protein powder
-
-## General Food Diet Tips
-
-### Protein
-
-* 1 gram of protein for every 2.2 lbs of body weight is ideal
-* For protein intake, fish and seafood focused diets are preferred
-
 ### Fats
 
 * Extra virgin olive oil > regular olive oil > cold pressed canola oil
 * Nuts, seeds, olive oil and avocado are good sources of fats
 * Omega 3s are better from algae or flaxseed oil
+
+## Meats
+
+### Meat Types
+
+* Chicken
+* Salmon
+* Shrimp
+* Tuna
+* Beef
+
+### Meat Tips
+
+* Meat consumption is optional, and not recommended
+
+## Dairy
+
+* Eggs
+* Cashew milk
+* Cheddar shredded cheese (mild)
+* Gouda sliced cheese
+* Mozzarella shredded cheese
