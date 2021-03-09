@@ -56,7 +56,7 @@ Instructions
 
 ### Acapulco cocktail
 
-![Acapulco cocktail](cocktails-assets/acapulco-cocktail.jpg)
+![Acapulco cocktail](assets/acapulco-cocktail.jpg)
 
 Ingredients:
 
@@ -94,7 +94,7 @@ Instructions:
 
 ### Watermelon Coconut Limeade
 
-![Watermelon cocunut limeade](cocktails-assets/watermelon-coconut-limeade.jpg)
+![Watermelon cocunut limeade](assets/watermelon-coconut-limeade.jpg)
 
 Makes 2 servings
 
