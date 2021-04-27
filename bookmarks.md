@@ -20,6 +20,14 @@
 
 [WSBU FM 88.3](http://player.listenlive.co/37351) - "The Buzz", radio station from St. Bonaventure University, Allegany, NY
 
+## Podcasts
+
+### Podcasts Creation Tools
+
+[Descript.com](https://www.descript.com) - create podcasts, videos and transcripts
+
+[Zencastr.com](https://zencastr.com) - studio quality podcast tools
+
 ## Survival
 
 [Animated Knots](https://www.animatedknots.com) - visual tuts to learn how to tie any kind of knot
