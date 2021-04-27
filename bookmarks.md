@@ -2,9 +2,15 @@
 
 ## General
 
-[Almanac](https://almanac.io/home) - curated knowledge, articles, lists for many business topics. Open-source documents
+[Almanac.io](https://almanac.io/home) - curated knowledge, articles, lists for **many** business topics
 
 [Psyche.co](https://psyche.co) - articles on the human condition and current events
+
+## Finances
+
+### Stocks
+
+[Unbiastock.com](https://unbiastock.com/reddit.php) - trending stocks based on social media commentary, i.e. tweet/reddit mentions, etc.
 
 ## Music
 
