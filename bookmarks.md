@@ -6,6 +6,10 @@
 
 [Psyche.co](https://psyche.co) - articles on the human condition and current events
 
+## Ideas
+
+[IWisthThereWas.App](https://iwishtherewas.app) - Twitter crawler for app ideas
+
 ## Finances
 
 ### Stocks
