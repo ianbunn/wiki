@@ -40,7 +40,6 @@
     - [Resources](food/resources.md)
 - [**health**](health)
     - [Abs](health/fitness-abs.md)
-    - [Fitness Resources](health/fitness-resources.md)
     - [Nootropics](health/nootropics.md)
 - [**history**](history)
     - [**ancientMesoamerica**](history/ancientMesoamerica)

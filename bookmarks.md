@@ -16,6 +16,10 @@
 
 [Unbiastock.com](https://unbiastock.com/reddit.php) - trending stocks based on social media commentary, i.e. tweet/reddit mentions, etc.
 
+## Fitness
+
+[Julian Shapiro - Muscle Guide](https://www.julian.com/guide/muscle/intro) - reference guide for building muscle
+
 ## Music
 
 ### Radio stations
