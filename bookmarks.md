@@ -16,6 +16,10 @@
 
 [Unbiastock.com](https://unbiastock.com/reddit.php) - trending stocks based on social media commentary, i.e. tweet/reddit mentions, etc.
 
+### Trends
+
+[Unusual Whales](https://unusualwhales.com) - watch for abnormal activity or trends in financial markets
+
 ## Fitness
 
 [Julian Shapiro - Muscle Guide](https://www.julian.com/guide/muscle/intro) - reference guide for building muscle
@@ -23,6 +27,8 @@
 ## Music
 
 ### Radio stations
+
+[LoFi.Cafe](https://www.lofi.cafe)
 
 [KVRX 91.7](https://kvrx.org/app/) - "None of the hits, all of the time", Austin, TX
 
