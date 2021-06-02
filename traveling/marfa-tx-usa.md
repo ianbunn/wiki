@@ -49,6 +49,8 @@
 * Planet marfaMystery Lights Viewing Area (Sight seeing)
   * Along Texas Highway 90, 10 mi east of Marfa
 
-Other Resources:
+References:
 
-[Texas Monthly - Trip guide to Marfa](https://www.texasmonthly.com/texas-trip-guides/trip-guide-marfa/)
+* [Texas Monthly - Trip guide to Marfa](https://www.texasmonthly.com/texas-trip-guides/trip-guide-marfa/)
+
+[Back home](../README.md)

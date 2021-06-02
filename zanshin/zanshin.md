@@ -145,3 +145,5 @@ Live by the sword, die by the sword.
 Stay calm.
 
 Say it out loud, "everything is fine and there is nothing I can do for things outside my control." Notice what objections arise. Observe the thoughts that come to mind and write them down. Resolve those objections to come to a Zen mind.
+
+[Back home](../README.md)

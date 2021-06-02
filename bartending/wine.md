@@ -162,8 +162,6 @@ A good wine should be slightly thinner, with no flaws in the flow of the glass.
 
     Choose wines from the same region as the recipe.
 
-### References
-
-[NY Times Cooking - How to drink wine](https://cooking.nytimes.com/guides/41-how-to-drink-wine)
+References: [NY Times Cooking - How to drink wine](https://cooking.nytimes.com/guides/41-how-to-drink-wine)
 
 [Back home](../README.md)

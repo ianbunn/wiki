@@ -1,6 +1,6 @@
 # Leadership
 
-## Communication*
+## Communication
 
 "Communication opportunities are critical. Even a brief interaction can change the way people think about themselves, their leaders, and the future" - Douglas Conant, CEO
 
@@ -36,4 +36,6 @@ The sentence with fewer descriptors and less content is more effective. That may
 
 This guidance does not mean you must banish “ands” from your lexicon like carbs from your diet. Just see them as flags to assess each occurrence. Ask yourself how much you really need multiple descriptors in a single point or sentence, knowing that even one more word means more cognitive work for your audience.
 
-*Reference: https://hbr.org/2021/04/find-the-right-words-to-inspire-your-team
+Reference: [Harvard Business Review: Find the Right Words to Inspire Your Team](https://hbr.org/2021/04/find-the-right-words-to-inspire-your-team)
+
+[Back home](../README.md)

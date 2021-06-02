@@ -58,3 +58,5 @@
     * Increases dopamine and noradrenaline concentrations in the brain
     * Improves short-term memory, information processing speed and attention
     * Negative side effects include insomnia, stomach ache, headache and loss of appetite; it can also cause hallucinations, psychosis, heart arrhythmias and high blood pressure
+
+[Back home](../README.md)

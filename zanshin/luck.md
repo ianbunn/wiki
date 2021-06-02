@@ -55,3 +55,7 @@ There are many ways to strengthen and develop the serendipity muscle.
 - "Hook strategy": find common ground and shared passions with someone to maximize serendipity
   - Ask about their current passions and interests, instead of what do you do type of questions
 - "Reframe mindset": treat challenges and mistakes as opportunities, not threats
+
+Reference: [Psyche.com - How to Open Up to Serendipity & Create Your Own Luck](https://psyche.co/guides/how-to-open-up-to-serendipity-and-create-your-own-luck)
+
+[Back home](../README.md)

@@ -172,6 +172,63 @@
 * Walnuts seem to have the higest antioxidant and omega-3 levels, and beats other nuts in supressing cancer cell growth
 * 3-4 handful pistachios a day for three weeks improve bloodflow through penis for firmer erections
 
+### Chia Seeds
+
+Small seed comes from the *Salvia hispanica* plant.
+
+#### Buying advice for chia seeds
+
+* Chia seeds come in black or white, no big difference in nutritional content
+* Buy in bulk as seeds last for a long time (from 4-5 years if stored correctly)
+* Store them in an *air-tight* container in the fridge to minimize the oxidation of teh oils in the seeds
+
+#### How to use chia seeds
+
+* Use them whole
+  * No need to hydrate them before eating
+  * Sprinkle raw chia seeds on salads, soups, or any meal
+* You can eat as much as **4-5 tbsps a day**
+* DON'T eat them by the spoonful, as you can cause a blockage on esophagus
+* Chia puddings overnight with nut milk and cocoa powder, nut butter, vanilla or any seed or nut
+* Chia gel after mixing it w liquid for 20 minutes to add in soups, smoothies, salad dressings or even as egg replacement (one egg with 1/4 cup chia gel)
+
+#### Chia seeds research
+
+* 60% of the chia oil is alpha-linolenic acid (ALA)
+  * ALA is an omega-3 fatty acid associated w/lowering the risk of heart disease and memory loss to promoting healthy skin and nerve function
+* A good source of protein
+* Contain essential amino acids for nutrition:
+  * Isoleucine
+  * Leucine
+  * Lysine
+  * Methionine
+  * Phenylalanine
+  * Threonine
+  * Tryptophan
+  * Histidine
+  * Valine
+* Contains a soluble fiber called **mucilage**
+  * Mucilage absorbs from 10 to 20x its weight in water
+  * Mix chia w/water and you'll see it expand forming a kind of gel around it
+  * Gel effect has metabolic benefits
+    * It feels like you're eating a larger qty of food
+    * Can create more satiety
+  * Can prevent blood sugar spikes after eating a meal
+  * High viscosity fiber may help blunt glucose response with a lower initial rise
+  * 2 tbsps contain about 11 grams of fiber, which feed our gut microbiome
+    * When ingested, our bugs produce short-chain fatty acids, which help regulate appetite and promte balance of insuline and glucagon to keep blood glucose steady
+* A fantastic source of micronutrients relevant to metabolic functioning:
+  * Calcium
+  * Magnesium
+  * Iron
+  * Zinc
+  * Copper
+  * Manganese
+  * Niacin
+* Loaded with polyphenols (plant-based antioxidants) which help to prevent diseases caused by oxidative stress, strongly related to the development of metaboic dysfunction
+
+Reference: [LevelsHealth.com - Foods We Love Chia Seeds](https://www.levelshealth.com/blog/foods-we-love-chia-seeds)
+
 ### Flaxseed Tips
 
 * 1 serving daily
@@ -221,3 +278,5 @@
 * Cheddar shredded cheese (mild)
 * Gouda sliced cheese
 * Mozzarella shredded cheese
+
+[Back home](../README.md)

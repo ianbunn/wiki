@@ -37,6 +37,8 @@
 6. Pick the best solution
     * 
 
-Helpful Links:
+[ left off on step 6 on [LifeHack.org - 10 step power method to solve any problem](https://www.lifehack.org/articles/productivity/10-step-power-method-systematically-solve-virtually-any-problem.html) ]
 
-[LifeHack.org - 10 step power method to solve any problem](https://www.lifehack.org/articles/productivity/10-step-power-method-systematically-solve-virtually-any-problem.html?mid=20150218&ref=mail&uid=299294&feq=daily)
+Reference: [LifeHack.org - 10 step power method to solve any problem](https://www.lifehack.org/articles/productivity/10-step-power-method-systematically-solve-virtually-any-problem.html)
+
+[Back home](../README.md)

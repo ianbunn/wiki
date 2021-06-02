@@ -34,7 +34,7 @@ The jaguar motif was due to the Aztec belief that the warrior would exhibit the 
 
 To get to the **cuāuhocēlōtl** level, a warrior would have to capture 4 living enemies from battle, as they believed killing was a clumsy solution to battle.
 
-![Cuāuhocēlōtl](assets/images/Cuauhocelotl.jpg)
+![Cuāuhocēlōtl](assets/Cuauhocelotl.jpg)
 
 ### Tlachtli
 
