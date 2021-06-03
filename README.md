@@ -38,7 +38,7 @@
             - [Spanish Quinoa Stuffed Peppers](food/recipes/vegan/Spanish-quinoa-stuffed-peppers.md)
     - [Healthy Pantry Items](food/healthy-items-and-tips.md)
 - [**health**](health)
-    - [Abs](health/fitness-abs.md)
+    - [Abs](fitness/fitness-abs.md)
     - [Nootropics](health/nootropics.md)
 - [**history**](history)
     - [**ancientMesoamerica**](history/ancientMesoamerica)
