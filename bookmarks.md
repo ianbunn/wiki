@@ -4,6 +4,8 @@
 
 [Almanac.io](https://almanac.io/home) - curated knowledge, articles, lists for **many** business topics
 
+[Hacker News](https://news.ycombinator.com/news)
+
 [Psyche.co](https://psyche.co) - articles on the human condition and current events
 
 ## Ideas
@@ -11,6 +13,10 @@
 [IWisthThereWas.App](https://iwishtherewas.app) - Twitter crawler for app ideas
 
 ## Finances
+
+### Cryptocurrencies
+
+[Cryptopanic.com](https://cryptopanic.com) - news aggregator for cryptocurrencies
 
 ### Stocks
 
@@ -61,3 +67,12 @@
 [Animated Knots](https://www.animatedknots.com) - visual tuts to learn how to tie any kind of knot
 
 [Back home](./README.md)
+
+
+## Technology
+
+### AWS
+
+[AWS Architecture Monthly](https://aws.amazon.com/architecture/architecture-monthly/)
+
+[AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
