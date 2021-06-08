@@ -62,12 +62,15 @@
 
 [Zencastr.com](https://zencastr.com) - studio quality podcast tools
 
+## Shopping
+
+[Stubbs and Wootoon](https://stubbsandwootton.com) - handmade slippers for men, women and kids
+
 ## Survival
 
 [Animated Knots](https://www.animatedknots.com) - visual tuts to learn how to tie any kind of knot
 
 [Back home](./README.md)
-
 
 ## Technology
 
