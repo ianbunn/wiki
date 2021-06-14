@@ -1,5 +1,11 @@
 # Bookmarks
 
+## Drinks
+
+### Wine
+
+[NY Times - How to drink wine](https://cooking.nytimes.com/guides/41-how-to-drink-wine)
+
 ## General
 
 [Almanac.io](https://almanac.io/home) - curated knowledge, articles, lists for **many** business topics
@@ -11,6 +17,10 @@
 ## Ideas
 
 [IWisthThereWas.App](https://iwishtherewas.app) - Twitter crawler for app ideas
+
+## Interior Design
+
+[Desk Hunt](https://deskhunt.com) - inspirational workspaces
 
 ## Finances
 
@@ -79,3 +89,8 @@
 [AWS Architecture Monthly](https://aws.amazon.com/architecture/architecture-monthly/)
 
 [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
+
+
+### Tools
+
+[API List](https://apilist.fun) - a collective public list of free APIs
