@@ -4,19 +4,45 @@
 
 ### Art Shops
 
+[Art in Res](https://artinres.com) - fine art from indie artists
+
 [Austin Art Garage](https://austinartgarage.com) - art from Austin, TX artists
 
 [Fernando Munoz's Art](https://www.fernando-munoz.com) - Austin, TX artist
+
+### Color Theory
+
+[Canva](https://www.canva.com/learn/choose-right-colors-brand/) - how to choose the right colors for your brand
+
+### Fashion
+
+[The Sartorialist](https://www.thesartorialist.com) - street fashion
 
 ### Interior Design
 
 [Apartment Therapy](https://www.apartmenttherapy.com)
 
+[Contemporist](https://www.contemporist.com) - design inspiration
+
 [Desk Hunt](https://deskhunt.com) - inspirational workspaces
 
-## Books
+### Photography
+
+[Acid Sweat Lodge](http://theacidsweatlodge.blogspot.com)
+
+## Books and Magazines
 
 [Hathi Trust Digital Library](https://www.hathitrust.org) - free academia books online
+
+[Internet Archive](https://archive.org) - free books, movies, software, music, website and more
+
+[Internet Archive Galaxy Magazine](https://archive.org/details/galaxymagazine?sort=-date) - a science fiction, digest-size magazine, published from 1950 - 1980
+
+[Public Books](https://www.publicbooks.org/public-books-database/) - public books catalog
+
+[Read Print](http://www.readprint.com) - free online books
+
+[World Digital Library](https://www.wdl.org/en/) - 
 
 ## Drinks
 
@@ -60,6 +86,8 @@
 
 [Clean Eating](https://www.cleaneatingmag.com/) - recipes, meal plans, and pantry advice
 
+[Delish Knowledge](https://www.delishknowledge.com/creamy-jalapeno-salsa/) - recipe for creamy, jalapeño salsa, a la Taco Deli
+
 [Oh She Glows](https://ohsheglows.com/categories/recipes-2/) - plant-based recipes
 
 [PaleoMG](https://paleomg.com/category/food/) - paleo recipes
@@ -70,11 +98,15 @@
 
 [Almanac.io](https://almanac.io/home) - curated knowledge, articles, lists for **many** business topics
 
+[Atlas Obscura](https://www.atlasobscura.com) - curious travel destinations
+
 [Hacker News](https://news.ycombinator.com/news)
 
 [Psyche.co](https://psyche.co) - articles on the human condition and current events
 
-[Valet Magazine](http://www.valetmag.com)
+[Quanta Magazine](https://www.quantamagazine.org) - science and math news 
+
+[Valet Magazine](http://www.valetmag.com) - cultural news, fashion and lifestyle articles
 
 ## Health
 
@@ -86,15 +118,17 @@
 
 [Histography](http://histography.io) - interactive history timeline spanning across 14 billion years, from the Big Bang to 2015
 
-## Ideas
+## Legal
 
-[IWisthThereWas.App](https://iwishtherewas.app) - Twitter crawler for app ideas
+[Legal Zoom](https://www.legalzoom.com)
 
 ## Metaphysics
 
 [Chakra Energy](http://www.chakraenergy.com/index.html) - info about Chakras
 
 [Eclectic Energies](https://www.eclecticenergies.com) - energy meditation
+
+[Sacred Texts](https://www.sacred-texts.com/index.htm) - online books about metaphysics
 
 ## Movies/Films/Television
 
@@ -160,13 +194,27 @@
 
 [CS from the Bottom Up](https://www.bottomupcs.com)
 
+### Documentation
+
+[Dash Dash](https://dashdash.io) - fancy looking docs for CLI as inspiration to other devs
+
+[Dev Free Books](https://devfreebooks.github.io) - a collection of free books for devs
+
+### Ideas
+
+[IWisthThereWas.App](https://iwishtherewas.app) - Twitter crawler for app ideas
+
 ### Technology Revolution
 
 [Electronic Frontier Foundation](https://www.eff.org/cyberspace-independence) - a Declaration of the Independence of Cyberspace
 
+[The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) - pledge for a healthy Internet
+
 ### Tools
 
 [API List](https://apilist.fun) - a collective public list of free APIs
+
+[iTerm 2 Color Schemes](https://iterm2colorschemes.com)
 
 [Product Hunt](https://www.producthunt.com/e/an-api-for-everything) - an API for everything
 
