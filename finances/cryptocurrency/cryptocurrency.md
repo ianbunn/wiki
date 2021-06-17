@@ -1,5 +1,9 @@
 # Crypto$
 
+## Bitcoin (BTC)
+
+Bitcoin follows the laws of physics very closely. Satoshi Nakamoto really thought of every possible law of physics to engineer a monetary system that would hold true to the laws. (Ref: [Bitcoin Magazine: bitcoins rules are enforced by physics](https://bitcoinmagazine.com/culture/bitcoins-rules-are-enforced-by-physics))
+
 ## Exchanges
 
 My current favorite:
@@ -20,12 +24,11 @@ I have not tested or created an account for yet:
 
 [Back home](../README.md)
 
-
 ## Notes from Google Doc
 
-## Cryptocurrencies
+### Cryptocurrencies
 
-### Binance (BNB)
+#### Binance (BNB)
 
 **Binance** is led by Changpeng Zhao (CZ), previously at BTC wallet provider Blockchain LLC and one of China’s largest exchanges, **OKCoin**.
 
@@ -128,8 +131,7 @@ Decentraland
 Somnium Space
 The Sandbox
 
-
-## Crypto mining
+### Crypto mining
 
 The Chinese mining centralization of Bitcoin and Ethereum
 https://www.forbes.com/sites/rogerhuang/2021/12/29/the-chinese-mining-centralization-of-bitcoin-and-ethereum/?sh=6a52f5ed2f66
