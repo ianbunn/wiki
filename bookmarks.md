@@ -32,6 +32,8 @@
 
 ## Books and Magazines
 
+[b-ook](https://b-ok.cc) - online books
+
 [Hathi Trust Digital Library](https://www.hathitrust.org) - free academia books online
 
 [Internet Archive](https://archive.org) - free books, movies, software, music, website and more
@@ -42,7 +44,11 @@
 
 [Read Print](http://www.readprint.com) - free online books
 
-[World Digital Library](https://www.wdl.org/en/) - 
+[World Digital Library](https://www.wdl.org/en/) - free online books
+
+## Business & Management
+
+[Get Terms](https://getterms.io) - tool to generate a privacy policy for your website
 
 ## Drinks
 
@@ -53,6 +59,12 @@
 ## Finances
 
 ### Cryptocurrencies
+
+#### Bitcoin (BTC)
+
+[Bitcoin](https://bitcoin.org/bitcoin.pdf) - a peer-to-peer electronic cash system (white paper)
+
+#### General Crypto Stuff
 
 [Cryptopanic.com](https://cryptopanic.com) - news aggregator for cryptocurrencies
 
@@ -174,6 +186,10 @@
 
 [Slackmojis](https://slackmojis.com) - curated Slack emojis
 
+### Software Licenses
+
+[TLDR Legal](https://tldrlegal.com) - popular software licenses summarized
+
 ## Survival
 
 [Animated Knots](https://www.animatedknots.com) - visual tuts to learn how to tie any kind of knot
@@ -194,11 +210,17 @@
 
 [CS from the Bottom Up](https://www.bottomupcs.com)
 
+### Courses
+
+[Stanford CS193p](https://cs193p.sites.stanford.edu) - developing iOS apps
+
 ### Documentation
 
 [Dash Dash](https://dashdash.io) - fancy looking docs for CLI as inspiration to other devs
 
 [Dev Free Books](https://devfreebooks.github.io) - a collection of free books for devs
+
+[Gitlab](https://about.gitlab.com/handbook/) - company handbook
 
 ### Ideas
 
@@ -210,9 +232,13 @@
 
 [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) - pledge for a healthy Internet
 
-### Tools
+### Tools for Development
 
 [API List](https://apilist.fun) - a collective public list of free APIs
+
+[Code My UI](https://codemyui.com) - UI inspiration with code snippets
+
+[Software as a Medical Device Playbook](https://playbook.hanno.co) - how to build digital, health products
 
 [iTerm 2 Color Schemes](https://iterm2colorschemes.com)
 
