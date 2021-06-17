@@ -30,6 +30,8 @@ Make your internal reality so powerful to affect external reality.
 
 May the Field be with you.
 
+Ref: [Medium jhargrave](https://jhargrave.medium.com/how-steve-jobs-created-the-reality-distortion-field-and-you-can-too-4ba87781adba) - how Steve Jobs created the reality distortion field and you can too
+
 ## The Code
 
 ### Attitude
