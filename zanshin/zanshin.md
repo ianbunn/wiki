@@ -1,5 +1,35 @@
 # Zanshin
 
+## Reality Distortion Field
+
+What is "reality distortion field"? is "a confounding melange of a charismatic rhetorical style, an indomitable will, and an eagerness to bend any fact to fit the purpose at hand".
+
+A reality distortion field operates every single moment. It is the reality you project to the world about yourself, your abilities/limitations, strengths/weaknesses, etc.
+
+This perceived reality of yourself becomes actual reality. You believe it, so others believe it about yourself.
+
+Similar to "fake it till you make it", but the only main difference is that you don't allow imposter syndrome to creep in to your reality distortion field.
+
+Examples of hacking your reality distortion field:
+
+* If you are nervous when speaking in public, rest assured everyone picks up on it, and your unpolished speaking skills will be the reality
+* If you feel intimidated when talking to that powerful client, your body language will show it, and the power gap will become a reality
+* If you think you’re no good with people, you’ll always sit in the corner at the party, you’ll never get the chance to practice, and therefore your poor people skills will be the reality
+* If you’re convinced you’ll never get in shape, you’ll never take the opportunity to get in shape, and therefore your flabbiness will become a reality
+* If you see yourself as a leader, you’ll jump at the opportunity to lead, and therefore your leadership will become a reality
+
+Make your beliefs about yourself self-fulfilling prophecies. You are in control of yourself. 
+
+Hack yourself into a better version of yourself. Then hack others to help them become a better version of themselves.
+
+What you consider "possible" and "impossible" for yourself are just ideas. These loops can be reprogrammed. You can achieve the "impossible" by training your mind to believe it is "possible".
+
+"Anything is possible", a great foundation to start hacking your reality distortion field.
+
+Make your internal reality so powerful to affect external reality.
+
+May the Field be with you.
+
 ## The Code
 
 ### Attitude
