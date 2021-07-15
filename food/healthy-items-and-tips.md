@@ -1,5 +1,14 @@
 # Healthy Items and Tips
 
+## Eating Plan
+
+### Breakfast
+
+* Low-carb or keto-friendly pancake mixes and frozen waffles, almond or coconut flour
+* Syrups made with stevia or monk fruit
+* Instead of syrup, try berries or nut butter to add some flavor to other unsweetened food items
+* Green smoothie without too much fruit
+
 ## Healthy Pantry Items
 
 ### Beans & Legumes
@@ -281,7 +290,67 @@ Reference: [LevelsHealth.com - Foods We Love Chia Seeds](https://www.levelshealt
 * Gouda sliced cheese
 * Mozzarella shredded cheese
 
+### Spices
+
+* Turmeric (*Curcuma longa*): a rhizome or rootstalk, adds color and flavor and packs anti-inflammatory and antioxidant properties that help guard vs disease, and helps better control blood sugar
+  * Part of the ginger family
+  * Used to promote health and wellness for thousands of years with strong background in Ayurvedic and Chinese medicine
+    * Historically used to temper inflammation, treat liver and digestive illnesses, and improve wound healing
+  * Key metabolically beneficial compound in turmeric is curcumin
+    * Gives it its golden hue color, and potent anti-inflammatory and antioxidant properties
+    * Up to about 5% of raw turmeric is curcumin, the other ingredients include oils like turmerone, atlantone, and zingiberene
+    * Curcumin has been shown to inhibit a protein that turns on pro-inflammatory genes called NF-kB (nuclear factor kappa B)
+    * Turmeric's metabolic benefit is its ability to reduce disease-driving inflammation
+    * Curcumin may also play a role in fat metabolism to guard vs metabolic syndrome
+    * Improves insulin response and the function of pancreatic beta cells, which are the cells that release insulin
+    * Curcumin is also a pain relief based on research done in 2019 using a dose of 500 mg curcumin extract vs common NSAIDs, which can damage stomach lining in long-term use
+    * Curcumin quells neuro-inflammation, and it increases BDNF (brain-derived neurotrophic factor)
+    * Protects vs oxidative damage that leads to the death of neural cells, and may benefit cognition
+  * Buy it as a fresh root or ground spice
+    * There are supplements available, but make sure they are from a reputable brand that conducts 3rd party testing to verify exactly what's in the supplement and free of contaminants
+  * Flavor profiles are:
+    * Turmeric powder lends an earthy taste
+    * The root can be a bit bitter and peppery
+  * How to use it:
+    * Pair turmeric with pepper to facilitate absorption in the blood
+      * Black pepper contains a chemical called piperine, which can boost the absorption of curcumin by 2,000%
+        * The combo has also been shown to improve recovery from muscle damage following intense bouts of physical activity vs placebo
+    * Cook with it
+      * If you're choosing a cooking method, boiling preserves antioxidants better than roasting
+      * One idea, when cooking whole grains (rice, quinoa, etc.), toss in several shakes of turmeric spice into the cooking liquid
+      * Toss grated fresh or ground turmeric into curries or stir fries
+      * Scramble eggs in turmeric, black pepper and a tbsp or 2 of coconut milk, then add to pan to scramble eggs
+    * Drink it:
+      * Add to smoothie, don't be shy, add a bunch!
+      * Make a "golden milk latte", or just a combo of spices with turmeric, cinnamon and nutmeg to your coffee
+      * Make a turmeric tea with fresh turmeric, a juiced lemon, and a pinch of pepper
+
 ## Healthy Tips
+
+* Eat anything with omega-3s
+  * Higher red blood cell concentrations of these essential fatty acids have been linked to better metabolic profile
+  * Find omega-3s in:
+    * Fish:
+      * Salmon
+      * Sardines
+      * Oysters
+      * Anchovies
+      * Mackerel
+    * Seeds and nuts:
+      * Flax seeds
+      * Chia seeds
+      * Walnuts
+  
+* Eat low-glycemic fruit like:
+  * Berries
+  * Apples
+  * Oranges
+  
+* Tofu is high in protein
+
+* Pastured eggs typically have more omega-3s than the conventional kind
+
+* Cruciferous vegetables contain a compound called sulforaphane, which can increase insulin insensitivity in people with diabetes (cauliflower, spinach, arugula, broccoli)
 
 ### Glucose Levels
 
@@ -431,3 +500,9 @@ Reference: [LevelsHealth.com - Foods We Love Chia Seeds](https://www.levelshealt
 Reference [Levelshealth.com - Here are foods unlikely to spike your blood sugar](https://www.levelshealth.com/blog/here-are-foods-unlikely-to-spike-your-blood-sugar)
 
 [Back home](../README.md)
+
+
+Ref: [Levelshealth.com - tasty ideas for a low-carb breakfast](https://www.levelshealth.com/blog/tasty-ideas-for-a-low-carb-breakfast)
+Ref: [Levelshealth.com - foods we love turmeric](https://www.levelshealth.com/blog/foods-we-love-turmeric)
+
+[Back home](../../../README.md)
