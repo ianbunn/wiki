@@ -327,6 +327,10 @@ Reference: [LevelsHealth.com - Foods We Love Chia Seeds](https://www.levelshealt
 
 ## Healthy Tips
 
+* AVOID ALL white flour food items!!!
+
+* Eggs and egg yolks are good cholesterol to eat at night to produce more testosterone naturally
+
 * Eat anything with omega-3s
   * Higher red blood cell concentrations of these essential fatty acids have been linked to better metabolic profile
   * Find omega-3s in:
