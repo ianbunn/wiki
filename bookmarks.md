@@ -34,6 +34,8 @@
 
 [b-ook](https://b-ok.cc) - online books
 
+[Five Books](https://fivebooks.com) - best books on everything
+
 [Hathi Trust Digital Library](https://www.hathitrust.org) - free academia books online
 
 [Internet Archive](https://archive.org) - free books, movies, software, music, website and more
@@ -52,6 +54,9 @@
 
 ## Drinks
 
+### Beer
+
+[Issuu - Austin Beer Guide Issues](https://issuu.com/austinbeerguide)
 ### Wine
 
 [NY Times - How to drink wine](https://cooking.nytimes.com/guides/41-how-to-drink-wine)
