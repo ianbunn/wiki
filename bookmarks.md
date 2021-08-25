@@ -215,6 +215,8 @@
 
 [CS from the Bottom Up](https://www.bottomupcs.com)
 
+[Stanford CS Curriculum](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview) - Google Sheet
+
 ### Courses
 
 [Stanford CS193p](https://cs193p.sites.stanford.edu) - developing iOS apps
@@ -270,3 +272,8 @@
 [Do512 Guide](https://do512.com/p/summer-in-austin) - summer in Austin, TX
 
 [Timeout Austin Bars](https://www.timeout.com/austin/bars/the-best-hidden-bars-and-speakeasies-in-austin) - best hidden bars and speakeasies in Austin, TX
+
+
+### Travel Tools
+
+[Dollar Fight Club](https://app.dollarflightclub.com/login) - cheap flight specials club
