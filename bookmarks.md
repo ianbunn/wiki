@@ -244,7 +244,7 @@
 [API List](https://apilist.fun) - a collective public list of free APIs
 
 [Code My UI](https://codemyui.com) - UI inspiration with code snippets
-
+”
 [Software as a Medical Device Playbook](https://playbook.hanno.co) - how to build digital, health products
 
 [iTerm 2 Color Schemes](https://iterm2colorschemes.com)
