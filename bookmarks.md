@@ -273,6 +273,9 @@
 
 [Timeout Austin Bars](https://www.timeout.com/austin/bars/the-best-hidden-bars-and-speakeasies-in-austin) - best hidden bars and speakeasies in Austin, TX
 
+### Travel Articles
+
+[Afar](https://www.afar.com) - travel guides
 
 ### Travel Tools
 
