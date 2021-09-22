@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "c3dc222af005289c",
+    "type": "split",
+    "children": [
+      {
+        "id": "59a67b732c10a0eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "literature/writing.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88ff95c1796f6cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e771d5ab31e0d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba561813984a1a2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cc56c25220f5ad5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afcc20f28158b344",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c8665a97e61e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809bfd6433445728",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "literature/writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59a67b732c10a0eb",
+  "lastOpenFiles": [
+    "literature/writing.md",
+    "README.md",
+    "coffee/aeropress.md",
+    "bookmarks.md",
+    "bartending/cocktails.md"
+  ]
+}
