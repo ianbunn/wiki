@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59a67b732c10a0eb",
+        "id": "8726c3dfc6cb492e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "literature/writing.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59a67b732c10a0eb",
+  "active": "8726c3dfc6cb492e",
   "lastOpenFiles": [
-    "literature/writing.md",
+    "bartending/wine.md",
+    "bartending/shots.md",
+    "bartending/whiskey.md",
+    "bartending/cocktails.md",
+    "bartending/assets/watermelon-coconut-limeade.jpg",
+    "Watermelon cocunut limeade.md",
+    "bartending/assets/acapulco-cocktail.jpg",
     "README.md",
-    "coffee/aeropress.md",
-    "bookmarks.md",
-    "bartending/cocktails.md"
+    "literature/writing.md",
+    "coffee/aeropress.md"
   ]
 }

@@ -2,7 +2,7 @@
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
       "key": "P"
@@ -15,6 +15,15 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "publish:view-changes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }

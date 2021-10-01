@@ -16,6 +16,4 @@ Take a moment to study the details from the opening sentence, including:
 * Shift in verb tense
 * Open-endedness
 
-test for obsidian
-
 Ref: [Granta: notes on craft by Jonathan Lee](https://granta.com/notes-on-craft-jonathan-lee/)
