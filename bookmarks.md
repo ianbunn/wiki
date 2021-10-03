@@ -171,6 +171,10 @@
 
 [WSBU FM 88.3](http://player.listenlive.co/37351) - "The Buzz", radio station from St. Bonaventure University, Allegany, NY
 
+## Office stuff
+
+[Immersed VR office / desk setup](https://blog.immersed.team/working-from-orbit-39bf95a6d385) - dream setup, hopefully soon a reality, get it? :wink:
+
 ## Podcasts
 
 ### Podcasts Creation Tools
