@@ -2,26 +2,45 @@
 
 ## Grocery List
 
+* Produce
+  * Protein-packed
+    * Avocado
+    * Spinach
+    * Broccoli
+    * Corn
+    * Artichokes
+    * Edamame
+    * Peas
+    * Beans
+    * Lentils
+    * Mushrooms
+
+* Whole wheat and whole grain bread
+
+* Quinoa
+
 * Daiya pizzas
   * Mushroom lovers
   * "Cheese" lovers
 
-* Daiya cheese (plant-based)
-  * Pepper jack cheese
-
 * Vegan meats
   * Gardein
+  * Sweet Earth
 
 * Tofu
+* Tempeh
 
 * Falafel
 
 * Non-dairy, plant-based milk (non-oat since it uses a lot of water)
+  * Almond milk
   * Cashew milk
   * Coconut milk
 
 * Non-dairy, plant-based yogurt
   * Coconut yogurt
+
+* Miso
 
 ## Vegan Recipes Collection
 
