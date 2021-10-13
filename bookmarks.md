@@ -2,9 +2,9 @@
 
 ## Art
 
-### Art Shops
+### Online Art Shops
 
-[Art in Res](https://artinres.com) - fine art from indie artists
+[Art in Res](https://artinres.com) - fine art from indie artists with payment installment plans
 
 [Austin Art Garage](https://austinartgarage.com) - art from Austin, TX artists
 
@@ -14,17 +14,11 @@
 
 [Canva](https://www.canva.com/learn/choose-right-colors-brand/) - how to choose the right colors for your brand
 
-### Fashion
-
-[The Sartorialist](https://www.thesartorialist.com) - street fashion
-
 ### Interior Design
 
 [Apartment Therapy](https://www.apartmenttherapy.com)
 
 [Contemporist](https://www.contemporist.com) - design inspiration
-
-[Desk Hunt](https://deskhunt.com) - inspirational workspaces
 
 ### Photography
 
@@ -35,8 +29,6 @@
 [b-ook](https://b-ok.cc) - online books
 
 [Five Books](https://fivebooks.com) - best books on everything
-
-[Hathi Trust Digital Library](https://www.hathitrust.org) - free academia books online
 
 [Internet Archive](https://archive.org) - free books, movies, software, music, website and more
 
