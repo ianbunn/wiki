@@ -2,9 +2,9 @@
 
 ## Art
 
-### Art Shops
+### Online Art Shops
 
-[Art in Res](https://artinres.com) - fine art from indie artists
+[Art in Res](https://artinres.com) - fine art from indie artists with payment installment plans
 
 [Austin Art Garage](https://austinartgarage.com) - art from Austin, TX artists
 
@@ -14,17 +14,11 @@
 
 [Canva](https://www.canva.com/learn/choose-right-colors-brand/) - how to choose the right colors for your brand
 
-### Fashion
-
-[The Sartorialist](https://www.thesartorialist.com) - street fashion
-
 ### Interior Design
 
 [Apartment Therapy](https://www.apartmenttherapy.com)
 
 [Contemporist](https://www.contemporist.com) - design inspiration
-
-[Desk Hunt](https://deskhunt.com) - inspirational workspaces
 
 ### Photography
 
@@ -171,6 +165,10 @@
 
 [WSBU FM 88.3](http://player.listenlive.co/37351) - "The Buzz", radio station from St. Bonaventure University, Allegany, NY
 
+## Office stuff
+
+[Immersed VR office / desk setup](https://blog.immersed.team/working-from-orbit-39bf95a6d385) - dream setup, hopefully soon a reality, get it? :wink:
+
 ## Podcasts
 
 ### Podcasts Creation Tools
@@ -244,7 +242,7 @@
 [API List](https://apilist.fun) - a collective public list of free APIs
 
 [Code My UI](https://codemyui.com) - UI inspiration with code snippets
-”
+
 [Software as a Medical Device Playbook](https://playbook.hanno.co) - how to build digital, health products
 
 [iTerm 2 Color Schemes](https://iterm2colorschemes.com)

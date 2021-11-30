@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "374ef48a0ab052b2",
+    "id": "c3dc222af005289c",
     "type": "split",
     "children": [
       {
-        "id": "2bcc790a4cb7cb8f",
+        "id": "8726c3dfc6cb492e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a3d3f09cdda9837e",
+    "id": "88ff95c1796f6cea",
     "type": "split",
     "children": [
       {
-        "id": "58d596cce92df157",
+        "id": "7e771d5ab31e0d27",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5daa54a54397ec",
+            "id": "ba561813984a1a2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "6404e9ec93b4bbaf",
+            "id": "3cc56c25220f5ad5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "e840e2cedee074f4",
+    "id": "afcc20f28158b344",
     "type": "split",
     "children": [
       {
-        "id": "27d2bde79284e37b",
+        "id": "84c8665a97e61e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "117818480c297144",
+            "id": "809bfd6433445728",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,8 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bcc790a4cb7cb8f",
+  "active": "8726c3dfc6cb492e",
   "lastOpenFiles": [
-    "bartending/wine.md"
+    "bartending/wine.md",
+    "bartending/shots.md",
+    "bartending/whiskey.md",
+    "bartending/cocktails.md",
+    "bartending/assets/watermelon-coconut-limeade.jpg",
+    "Watermelon cocunut limeade.md",
+    "bartending/assets/acapulco-cocktail.jpg",
+    "README.md",
+    "literature/writing.md",
+    "coffee/aeropress.md"
   ]
 }

@@ -39,6 +39,12 @@ Short answer is **no**.
 	* **Skin-contact** means the producers of these wines used white grapes but employed a method for making red wines.
 * It is also possible to make white wines with red grapes, by taking away the skins immediately, such as:
 	* *blanc de noirs Champagne*, a white sparkling wine made from red grapes *pinot noir* or *pinot meunier* or both
+Short answer is **no**.
+
+* Ocasionally, you will see white wines labeled "**orange**" or "**amber**", or even "**skin-contact**"
+  * **Skin-contact** means the producers of these wines used white grapes but employed a method for making red wines.
+* It is also possible to make white wines with red grapes, by taking away the skins immediately, such as:
+  * *blanc de noirs Champagne*, a white sparkling wine made from red grapes *pinot noir* or *pinot meunier* or both
 
 ## Rosé
 
@@ -157,44 +163,6 @@ A good wine should be slightly thinner, with no flaws in the flow of the glass.
 * **Texture**: how a wine feels in the mouth. It might seem light and ethereal or heavy and viscous.
 * **Finish**: the lasting impression of a wine after you swallow a sip. The aftertaste that lingers in the mouth. A longer finish is much appreciated.
 * **Nose**: how a wine smells.
-
-## Pairing Wines with Food
-
-1. Start with conventional wisdom
-
-    Experiences knows best. Personal preferences over rules.
-
-2. Guidelines for beginners
-
-    White wines
-
-    * Dry white wines go great with fish and shellfish
-    * Match the richness and body of the food with the weight of the wine
-    * Crisp, white goes great with shrimp, sardines or flounder
-      * Tends to not satisfy the palate paired with lobster or scallops
-    * Richer, chardonnay goes pairs well with lobster or scallops
-    * A big, dry riesling, or sweet auslese pair well with some meats
-    * Some whites pair well with pork
-    * Fresh tomato sauces in pizza or pastas pair well with crisp whites
-    * Champagne pairs well with pizza
-
-    Red wines
-
-    * Reds are pair great with red meat
-    * Steaks and other rich, fatty meats take bigger, more tannic reds
-    * Burgers might be better with juicer reds
-    * Some reds pair well with pork
-    * Pizzas and pastas with tomato sauces need an acidic red (traditional Italian reds)
-    * Certain reds pair well with salmon, like pinot noir
-
-    Sweet wines
-
-    * Sweet wines pair great with cheese
-    * Sweet wines usually DO NOT pair well with desserts
-
-3. Think regionally
-
-    Choose wines from the same region as the recipe.
 
 References: [NY Times Cooking - How to drink wine](https://cooking.nytimes.com/guides/41-how-to-drink-wine)
 
