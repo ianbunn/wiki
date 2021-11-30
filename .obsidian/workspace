@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "374ef48a0ab052b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcc790a4cb7cb8f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3d3f09cdda9837e",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d596cce92df157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca5daa54a54397ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6404e9ec93b4bbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e840e2cedee074f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d2bde79284e37b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117818480c297144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bcc790a4cb7cb8f",
+  "lastOpenFiles": [
+    "bartending/wine.md"
+  ]
+}

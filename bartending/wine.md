@@ -2,27 +2,61 @@
 
 ## Red wine
 
-Red wines may be named after familiar grapes, like *cabernet sauvignon*, *pinot noir*, *malbec* or *zinfandel*, but especially with European wines, they may be named for the place the grames are grown, like *Gevrey-Chambertin*, *Priorat*, *St.-Julien* or *Barolo*.
+### How are red wines named?
+
+* Red wines may be named ...
+	* ...after familiar grapes, such as:
+		* *cabernet sauvignon*
+		* *pinot noir*
+		* *malbec*
+		* *zinfandel*
+	* ...for the place the grames are grown, such as: 
+		* *Gevrey-Chambertin*
+		* *Priorat*
+		* *St.-Julien* or *Barolo*
 
 ## White wine
 
-White wines, like red wines, will generally carry the names of either grapes or places. Examples of grapes are *chardonnay*, *sauvignon blanc*, *riesling and chenin blanc*. Examples of places are *Mâcon-Villages*, *Soave*, *Vouvray*, and *Sancerre*.
+### How are white wines named?
 
-Ocasionally, you will see white wines labeled "orange" or "amber", or even "skin-contact" meaning the producers of these wines used white grapes but employed a method for making red wines.
+* Like red wines, white wines will also be named by:
+	* Types of grapes, such as:
+		* *chardonnay*
+		* *sauvignon blanc*
+		* *riesling*
+		* *chenin blanc*
+	* Places, such as:
+		* *Mâcon-Villages*
+		* *Soave*
+		* *Vouvray*
+		* *Sancerre*
 
-It is also possible to make white wines with red grapes, by taking away the skins immediately. A classic example is *blanc de noirs Champagne*, a white sparkling wine made from red grapes *pinot noir* or *pinot meunier* or both.
+### Are all white wines made with white grapes?
+
+Short answer is **no**.
+
+* Ocasionally, you will see white wines labeled "**orange**" or "**amber**", or even "**skin-contact**"
+	* **Skin-contact** means the producers of these wines used white grapes but employed a method for making red wines.
+* It is also possible to make white wines with red grapes, by taking away the skins immediately, such as:
+	* *blanc de noirs Champagne*, a white sparkling wine made from red grapes *pinot noir* or *pinot meunier* or both
 
 ## Rosé
 
-Rosé is produced by starting simmilar to making red wine, but allow the skins to steep in the juice only enough to achieve the desired color.
+## How is rosé made?
 
-Another production method is to bleed off a portion of the juice from the red wine. This method is called *saignée*, French for "bled".
+* Rosé is produced by starting similar to making red wine, and allow the skins to steep in the juice only enough to achieve the desired color
+* Another production method is to bleed off a portion of the juice from the red wine
+* This method is called *saignée*, French for "bled"
+* A third method is used to make rosé Champagne, which is done by blending a bit of red into white wine
 
-A third method is used to make rosé Champagne, which is done by blending a bit of red into white wine.
+### Are rosé wines supposed to be drank when young?
 
-Rosés are ephemereal, meaning they should be consumed young. There are some exceptions that age beautifully, like *Provençal rosés of Bandol*, *rosé of Château Simone*, and *rosé of Valentini*.
+* Rosés are ephemereal, meaning they should be consumed young
+* There are some exceptions that age beautifully, like *Provençal rosés of Bandol*, *rosé of Château Simone*, and *rosé of Valentini*
 
-Whether they are labeled rosé, rosado (Spain) or rosato (Italy), you'll be able to tell it apart by its rose color.
+### What's the diff btw rosé, rosado and rosato?
+
+* Whether they are labeled rosé, rosado (Spain) or rosato (Italy), you'll be able to tell it apart by its rose color.
 
 ## Sparkling wine
 
