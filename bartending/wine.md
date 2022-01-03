@@ -5,34 +5,40 @@
 ### How are red wines named?
 
 * Red wines may be named ...
-  * ...after familiar grapes, such as:
-    * *cabernet sauvignon*
-    * *pinot noir*
-    * *malbec*
-    * *zinfandel*
-  * ...for the place the grames are grown, such as:
-    * *Gevrey-Chambertin*
-    * *Priorat*
-    * *St.-Julien* or *Barolo*
+	* ...after familiar grapes, such as:
+		* *cabernet sauvignon*
+		* *pinot noir*
+		* *malbec*
+		* *zinfandel*
+	* ...for the place the grames are grown, such as: 
+		* *Gevrey-Chambertin*
+		* *Priorat*
+		* *St.-Julien* or *Barolo*
 
 ## White wine
 
 ### How are white wines named?
 
 * Like red wines, white wines will also be named by:
-  * Types of grapes, such as:
-    * *chardonnay*
-    * *sauvignon blanc*
-    * *riesling*
-    * *chenin blanc*
-  * Places, such as:
-    * *Mâcon-Villages*
-    * *Soave*
-    * *Vouvray*
-    * *Sancerre*
+	* Types of grapes, such as:
+		* *chardonnay*
+		* *sauvignon blanc*
+		* *riesling*
+		* *chenin blanc*
+	* Places, such as:
+		* *Mâcon-Villages*
+		* *Soave*
+		* *Vouvray*
+		* *Sancerre*
 
 ### Are all white wines made with white grapes?
 
+Short answer is **no**.
+
+* Ocasionally, you will see white wines labeled "**orange**" or "**amber**", or even "**skin-contact**"
+	* **Skin-contact** means the producers of these wines used white grapes but employed a method for making red wines.
+* It is also possible to make white wines with red grapes, by taking away the skins immediately, such as:
+	* *blanc de noirs Champagne*, a white sparkling wine made from red grapes *pinot noir* or *pinot meunier* or both
 Short answer is **no**.
 
 * Ocasionally, you will see white wines labeled "**orange**" or "**amber**", or even "**skin-contact**"

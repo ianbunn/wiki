@@ -30,6 +30,8 @@
 
 [Five Books](https://fivebooks.com) - best books on everything
 
+[Hathi Trust Digital Library](https://www.hathitrust.org) - free academia books online
+
 [Internet Archive](https://archive.org) - free books, movies, software, music, website and more
 
 [Internet Archive Galaxy Magazine](https://archive.org/details/galaxymagazine?sort=-date) - a science fiction, digest-size magazine, published from 1950 - 1980
@@ -240,7 +242,7 @@
 [API List](https://apilist.fun) - a collective public list of free APIs
 
 [Code My UI](https://codemyui.com) - UI inspiration with code snippets
-”
+
 [Software as a Medical Device Playbook](https://playbook.hanno.co) - how to build digital, health products
 
 [iTerm 2 Color Schemes](https://iterm2colorschemes.com)

@@ -105,6 +105,22 @@
   * Miso
   * Sea vegetables
 * However, make sure you take a vitamin B12 supplement
+* Daiya cheese (plant-based)
+  * Pepper jack cheese
+
+* Vegan meats
+  * Gardein
+
+* Tofu
+
+* Falafel
+
+* Non-dairy, plant-based milk (non-oat since it uses a lot of water)
+  * Cashew milk
+  * Coconut milk
+
+* Non-dairy, plant-based yogurt
+  * Coconut yogurt
 
 ## Vegan Recipes Collection
 
