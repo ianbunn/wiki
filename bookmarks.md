@@ -40,6 +40,8 @@
 
 [Read Print](http://www.readprint.com) - free online books
 
+[Reddit Reads](https://www.redditreads.com) - Reddit users' recommendations
+
 [World Digital Library](https://www.wdl.org/en/) - free online books
 
 ## Business & Management
