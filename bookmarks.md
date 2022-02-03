@@ -67,6 +67,20 @@
 
 [Cryptopanic.com](https://cryptopanic.com) - news aggregator for cryptocurrencies
 
+[Dune.xyz](https://dune.xyz/home) - crypto analytics by the community
+
+[Studio.Glassnode.com](https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount) - analytics on main chains
+
+#### Initial Coin Offerings (ICO)
+
+[ICO Bench](https://icobench.com) - ICO rating platform
+
+#### NFTs
+
+[NFTgo.com/overview](https://nftgo.io/overview) - NFT market overview
+
+[Nonfungible.com](https://nonfungible.com) - NFT data resource, project rankings, asset pricing, advanced market analysis
+
 ### Stocks
 
 [Unbiastock.com](https://unbiastock.com/reddit.php) - trending stocks based on social media commentary, i.e. tweet/reddit mentions, etc.
