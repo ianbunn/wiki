@@ -295,7 +295,6 @@
 
 [Dollar Fight Club](https://app.dollarflightclub.com/login) - cheap flight specials club
 
-
 ## Zanshin
 
 [100 rabbits - off-grid living](http://100r.co/site/off_the_grid.html)
