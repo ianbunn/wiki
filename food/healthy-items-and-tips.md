@@ -1,7 +1,5 @@
 # Healthy Items and Tips
 
-
-
 ## Eating Plan
 
 ### Breakfast
