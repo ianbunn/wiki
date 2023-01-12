@@ -40,6 +40,8 @@ Our brain is a meaning-making machine, always trying to make sense of the world,
 
 Sometimes this leads to us creating a self-fulfilling prophecy; we project what we expect, and that helps elicit what we expect. However, what we project is based upon what happened to us as children.
 
+![State Reactivity Curve](./assets/what-happened-to-you-state-reactivity-curve.jpeg)
+
 ### Dysregulated and Imbalanced State
 
 With balance comes imbalance, so our body created this "fight or flight" mechanism to respond to our fears when we are in the dysregulated, imbalanced state.
@@ -47,6 +49,8 @@ With balance comes imbalance, so our body created this "fight or flight" mechani
 Another defense mechanism is dissociation. However, this tends to lead to extreme, ultimately destructive, methods of regulation, but not always.
 
 Most ppl with "developmental adversity" are chronically dysregulated, resulting in tightness and anxiety.
+
+![Tree of Regulation](./assets/what-happened-to-you-tree-of-regulation.jpeg)
 
 ### Fight or Flight
 
@@ -80,7 +84,9 @@ With increasing stress or threat, the dissociative response takes a person deepe
 
 All functioning of the brain is "state-dependent". A person will think, learn, feel, and behave differently when they are afraid compared to when they feel safe.
 
-On occasion, we will be challenged, surprised, or threatened and will move to the "Alarm" state. When this happens, we start to think in more emotional ways as lower systems in the brain begin to dominate our functioning. 
+On occasion, we will be challenged, surprised, or threatened and will move to the "Alarm" state. When this happens, we start to think in more emotional ways as lower systems in the brain begin to dominate our functioning.
+
+![Brain States](./assets/what-happened-to-you-brain-state.png)
 
 ## Chapter 4 - The Spectrum of Trauma
 
@@ -105,6 +111,8 @@ As you revisit this shipwreck, piece by piece, you find a fragment and move it t
 The effects of trauma stretch far and wide across generations and across communities, and it's important to always come back to our central question with comparison: What happened to you?
 
 Avoidant behaviors are an attempt to regain control over what feels like the uncontrollability of the traumatic experience. When someone is unavoidable, distressing situation, avoidant behaviors can be protective. They will often long to be connected but find themselves anxious, confused, or overwhelmed when they get close to someone.
+
+![Regulate, Relate, Reason - Neurosequential Model](./assets/what-happened-to-you-brain.jpeg)
 
 ## Chapter 5 - Connecting the Dots
 
