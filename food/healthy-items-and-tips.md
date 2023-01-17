@@ -1,5 +1,14 @@
 # Healthy Items and Tips
 
+## Always Avoid
+
+There are some food additives that have been proven to activate inflammatory pathways such as the NFkB pathway and increase chronic disease and cancer risk ([ref](https://pubmed.ncbi.nlm.nih.gov/28229641/)):
+
+* Potassium sorbate
+* Sodium benzoate
+* Mono-glycerides
+* Di-glycerides
+
 ## Eating Plan
 
 ### Breakfast
